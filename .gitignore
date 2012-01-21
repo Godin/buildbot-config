@@ -1,0 +1,7 @@
+*.pyc
+
+/*.pid
+/*.log*
+/state.sqlite
+/work
+/configs/passwords/
